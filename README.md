@@ -11,3 +11,5 @@
 ------
 ---
 # The most important key to achieving great success is to decide upon your goal and launch, get started, take action and move.
+---
+# Think for the new.
