@@ -12,3 +12,6 @@
 ----
 --
 # It's great learning GitHub.
+------
+---
+# The most important key to achieving great success is to decide upon your goal and launch, get started, take action and move.
