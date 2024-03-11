@@ -5,10 +5,7 @@
 # uberApp.
 # Just for testing purposes.
 ---
-# Just for testing.
----
 # Hi, we are in class.
-
 ----
 --
 # It's great learning GitHub.
