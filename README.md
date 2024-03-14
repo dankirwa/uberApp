@@ -16,3 +16,4 @@
 
 # Exhaustion means that you had a great day!
 # Now it's time to study hard till you graduate!
+# Set yourself up for success!
