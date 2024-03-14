@@ -15,4 +15,4 @@
 # Think for the new.
 
 # Exhaustion means that you had a great day!
-# Now it's tome to study hard till you graduate!
+# Now it's time to study hard till you graduate!
